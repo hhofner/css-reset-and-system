@@ -1,0 +1,48 @@
+/* Reset */
+
+* {
+	/* Fonts */
+	--font-family-main: sans serif;
+	--font-family-secondary: sans serif;
+
+	/* Spacing */
+	--spacing-xxsm: 0px;
+	--spacing-xsm: 0px;
+	--spacing-sm: 0px;
+	--spacing-m-sm: 0px;
+	--spacing-m: 0px;
+	--spacing-m-lg: 0px;
+	--spacing-lg: 0px;
+	--spacing-xlg: 0px;
+	--spacing-xxlg: 0px;
+
+	/* Padding */
+	--padding-xxsm: 0px;
+	--padding-xsm: 0px;
+	--padding-sm: 0px;
+	--padding-m-sm: 0px;
+	--padding-m: 0px;
+	--padding-m-lg: 0px;
+	--padding-lg: 0px;
+	--padding-xlg: 0px;
+	--padding-xxlg: 0px;
+
+	/* Margins */
+	--margin-xxsm: 0px;
+	--margin-xsm: 0px;
+	--margin-sm: 0px;
+	--margin-m-sm: 0px;
+	--margin-m: 0px;
+	--margin-m-lg: 0px;
+	--margin-lg: 0px;
+	--margin-xlg: 0px;
+	--margin-xxlg: 0px;
+
+	/* Colors */
+
+
+
+	/* Borders */
+}
+
+
